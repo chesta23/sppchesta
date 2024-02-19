@@ -7,7 +7,7 @@
         <td>NISN</td>
         <td>NIS</td>
         <td>Nama</td>
-        <td>Kelas</td>
+        <td>Kelass</td>
         <td>Alamat</td>
         <td>No HP</td>
         <td>Tahun&Nominal</td>
